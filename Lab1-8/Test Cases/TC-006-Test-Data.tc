@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-006-Test-Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d4dbced-e69f-4323-9f1c-42b0db0a1df9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00237e50-8960-428c-9cdb-0fe31625f14a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
